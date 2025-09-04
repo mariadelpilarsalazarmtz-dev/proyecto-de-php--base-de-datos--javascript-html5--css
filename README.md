@@ -1,2 +1,2 @@
-# proyecto de php base de datos javascript html5 css
-Este es un proyecto de alumnos de la licenciatura en informatica administrativa UICSLP campus ciudad valles 
+# proyecto php
+Este proyecto fue creado para los alumnos de la Universidad Intercultural de San Luis Potosí, en la materia de PHP + ADMON BD
